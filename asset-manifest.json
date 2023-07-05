@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-for-summer-course/static/css/main.f2f401d8.css",
+    "main.js": "/test-for-summer-course/static/js/main.46195d42.js",
+    "index.html": "/test-for-summer-course/index.html",
+    "main.f2f401d8.css.map": "/test-for-summer-course/static/css/main.f2f401d8.css.map",
+    "main.46195d42.js.map": "/test-for-summer-course/static/js/main.46195d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f401d8.css",
+    "static/js/main.46195d42.js"
+  ]
+}
