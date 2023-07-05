@@ -32,6 +32,7 @@ function App() {
             type="text"
             className="App-textarea"
             placeholder="Enter any text"
+            value={str}
             onChange={(e) => setStr(e.target.value)}
           ></textarea>
           <button className="App-button">Find</button>
